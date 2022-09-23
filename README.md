@@ -1,1 +1,1 @@
-# mode_diffprog_22_challenge_submission
+# MODE Differentiable Programming for Experiment Design
